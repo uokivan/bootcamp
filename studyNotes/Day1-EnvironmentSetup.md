@@ -1,1 +1,1 @@
-# Environment setup
+# Day 1 - Environment Setup

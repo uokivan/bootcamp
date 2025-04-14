@@ -1,7 +1,9 @@
-# Terminal Command
+# Day 2 - Terminal and Git
+
+## Terminal Command
 > [!NOTE]
-> Ref : https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce?target=_blank
-> [Link](https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce "title" target="_blank")
+> Ref : https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce
+
 
 [Google](https://google.com" target="_blank)
 
