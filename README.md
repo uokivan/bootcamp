@@ -1,9 +1,5 @@
-# bootcamp
-
-## sub-heading
-- Welcome to bootcamp.
-  - Hi 
-
+# Menu
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Day 2 : Terminal and Git
+> https://github.com/uokivan/bootcamp/blob/main/studyNotes/Day1-EnvironmentSetup.md
