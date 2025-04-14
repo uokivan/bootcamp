@@ -79,5 +79,38 @@ public class DemoDataType {
         x2 += 3;
         System.out.println("x2 now is " + x2);
 
+
+        // boolean (either true or false)
+        boolean b9 = true;
+        b9 =false;
+        System.out.println(b9);
+
+        // * We cannot assign a bigger range of variable to smaller range of variable (by default) 
+        // Force assignment
+        byte b40 = (byte) 129L;
+        System.out.println("b40 : " + b40); // -127 (overflow)
+
+        // char
+        // single quote
+        // assign char value 'a' into char variable
+        char c1 = 'a';
+        System.out.println(c1);
+
+        char c2 = 'A';
+        System.out.println(c1 == c2); // false, because Java is case sensitive
+
+        char c3 = '陳';
+        System.out.println(c3);
+
+        // float (store decimal number)
+        // 3.14159 is double valus
+        // so unsafe (assign double value to float variable)
+        //float f1 = 3.14159; [ERROR]
+        float f1 = 3.14159f;
+        System.out.println(f1);
+
+        // Big problem
+        f1 = 0.3f + 0.4f;
+        System.out.println(f1); // 0.70000005
     }
 }
