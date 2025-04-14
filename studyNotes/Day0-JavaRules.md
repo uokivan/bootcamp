@@ -5,7 +5,7 @@
 >  
 > 2. File name must equal to the first public class name  
 >  
->    such as : File name is Hello.java :  
+>    such as : File name is HelloWorld.java :  
 >```  
 >    public class HelloWorld {  
 >       public static void main(String[] args){  
