@@ -15,7 +15,7 @@
 > Day 3 : DataType 1  
 >  https://github.com/uokivan/bootcamp/blob/main/studyNotes/Day3-DataType1.md  
 >  
-> Day 4 : DataType2 and Operators  
+> Day 4 : DataType 2 and Operators  
 > https://github.com/uokivan/bootcamp/blob/main/studyNotes/Day4-DataType2_and_Operators.md  
 >  
 > Day 5 :
