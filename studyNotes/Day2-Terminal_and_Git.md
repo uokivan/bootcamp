@@ -11,23 +11,36 @@
 > Ctrl + D : Will exit the terminal  
   
   
-## Some Basic Terminal Command  
+# Some Basic Terminal Command  
 > [!TIP]  
 > Ref : https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce  
   
-
-### Very Helpful keyboard commands : 
-Some Basic Terminal Commands :
+Lists the path to the working directory :
 ```
-Up Arrow : Will show your last command
-Down Arrow : Will show your next command
-Tab : Will auto-complete your command
-Ctrl + L : Will clear the screen
-Ctrl + C : Will cancel a command
-Ctrl + R : Will search for a command
-Ctrl + D : Will exit the terminal
+pwd
+```  
+  
+List directory contents :
 ```
-
+ls
+```  
+  
+Change directory to home :
+```
+cd
+```    
+  
+Change directory to specific directory :
+```
+cd [dirname]
+```    
+  
+Change to parent directory :
+```
+cd..
+```  
+  
+# Git
 
 1. Find where am I : pwd
 
