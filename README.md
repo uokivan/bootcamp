@@ -3,6 +3,8 @@
 # Menu
 
 > [!NOTE]  
+> Day 0 : Java Rules  
+> https://github.com/uokivan/bootcamp/blob/main/studyNotes/Day0-JavaRules.md  
 >  
 > Day 1 : Environment Setup  
 > https://github.com/uokivan/bootcamp/blob/main/studyNotes/Day1-EnvironmentSetup.md  

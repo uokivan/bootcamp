@@ -40,56 +40,39 @@ Change to parent directory :
 cd..
 ```  
   
-# Git
-
-1. Find where am I : pwd
-
-2. Show all file in your place right now : ls \
-    Change dir : cd
-
-4. Clone from git : git clone https://github.com/uokivan/bootcamp.git \
-  ** url come from github > ssh (can see the git url, must choose ssh, not https) ** 
-
-5. check have something new in local git project? : git status \
-
-6. push new data to git : \
-  git add . \
-  git commit -m "create new readme123.md 2025-04-10" \
-  git push \
-
-# Java :
-1. file name can't start from number, \
-  and must use upper , such as : Hello.java, can't use hello.java \
-
-
-
-
-
-
-
-
-
-
-
-
-
-  # Terminal Command :
-
-1. Find where am I : pwd
-
-2. Show all file in your place right now : ls \
-    Change dir : cd
-
-4. Clone from git : git clone https://github.com/uokivan/bootcamp.git \
-  ** url come from github > ssh (can see the git url, must choose ssh, not https) ** 
-
-5. check have something new in local git project? : git status \
-
-6. push new data to git : \
-  git add . \
-  git commit -m "create new readme123.md 2025-04-10" \
-  git push \
-
-# Java :
-1. file name can't start from number, \
-  and must use upper , such as : Hello.java, can't use hello.java \
+# Git  
+> [!TIP]  
+> Ref : https://dzone.com/articles/top-20-git-commands-with-examples  
+> Ref : https://education.github.com/git-cheat-sheet-education.pdf  
+  
+After ssh setup...  
+  
+** url come from github > ssh (can see the git url, must choose ssh, not https) **  
+  
+## Clone from git :  
+```  
+git clone https://github.com/uokivan/bootcamp.git  
+```  
+  
+## Check any new update in local git project ? :  
+```  
+git status
+```  
+  
+  
+## Push local data to git :  
+### Step 1. Add files to next commit  
+```  
+git add .
+```  
+  
+### Step 2. Commit your staged content as a new commit snapshot  
+```  
+git commit -m "new update"
+```  
+  
+### Step 3. Push your code to git  
+```  
+git push
+```  
+  
