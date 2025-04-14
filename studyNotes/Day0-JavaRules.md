@@ -6,12 +6,12 @@
 > 2. File name must equal to the first public class name  
 >  
 >    such as : File name is Hello.java :  
->    ```  
+>```  
 >    public class HelloWorld {  
 >       public static void main(String[] args){  
 >         System.out.println("--->    HelloWorld    <---");  
 >       }  
 >   }  
->    ```  
+>```  
 
 
