@@ -3,8 +3,10 @@
 > [!IMPORTANT]  
 > HotKey / Shortcut in VScode  
 >  
-> -- System.out.println("")  
->   - sysout  
+> - System.out.println("")  
+>```  
+>    sysout  
+>```  
 >  
 > -- public static void main(String[] args){}  
 >   - main
