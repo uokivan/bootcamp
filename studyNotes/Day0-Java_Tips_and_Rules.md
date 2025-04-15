@@ -1,14 +1,14 @@
 # Day 0 - Java Tips and Rules
 
 > [!IMPORTANT]  
-> HotKey / Shortcut in VScode  
+> HotKey / Shortcut in VScode :  
 >  
-> - System.out.println("")  
+> 1. System.out.println("")  
 >```  
 > sysout
 >```  
 >  
-> - public static void main(String[] args){}  
+> 2. public static void main(String[] args){}  
 >```  
 > main
 >```  
