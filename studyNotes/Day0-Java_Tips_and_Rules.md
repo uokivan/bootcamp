@@ -1,5 +1,5 @@
 # Day 0 - Java Tips and Rules
-
+  
 > [!IMPORTANT]  
 > HotKey / Shortcut in VScode :  
 >  
@@ -7,8 +7,6 @@
 >```  
 > sysout
 >```  
->   
->   
 >   
 > 2. public static void main(String[] args){}  
 >```  
@@ -21,7 +19,6 @@
 >  1. Create a "Project" in VScode :  
 >     Right click VScode's EXPLORER, and select "New Java Project..."  
 >  
-  
   
 > [!Note]
 >  
