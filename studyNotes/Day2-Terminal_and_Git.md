@@ -44,6 +44,9 @@ cd..
 > [!TIP]  
 > Ref : https://dzone.com/articles/top-20-git-commands-with-examples  
 > Ref : https://education.github.com/git-cheat-sheet-education.pdf  
+
+> [!TIP] 2  How create a good read.md
+> Ref : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
   
 After ssh setup...  
   
