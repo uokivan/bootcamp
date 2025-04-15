@@ -1,7 +1,8 @@
-![JAVA](https://www.oracle.com/img/tech/cb88-java-logo-001.jpg)
 ![JAVA](https://github.com/uokivan/bootcamp/blob/main/javaLogo.jpeg)
 
 # 72 Days Zero to Hero Java Bootcamp
+
+## MENU
 
 > [!NOTE]  
 > Day 0 : Java Rules  
