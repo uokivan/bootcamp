@@ -1,9 +1,20 @@
 # Day 0 - Java Tips and Rules
 
+> [!IMPORTANT]  
+> HotKey / Shortcut in VScode  
+>  
+> - System.out.println("")  
+>   sysout  
+>  
+> - public static void main(String[] args){}
+>   main
+>  
+  
 > [!TIP]  
 >  
 >  1. Create a "Project" in VScode :  
 >     Right click VScode's EXPLORER, and select "New Java Project..."  
+>  
   
   
 > [!Note]
@@ -20,6 +31,7 @@
 >       }  
 >    }  
 >```  
->
+>  
+  
 
 
