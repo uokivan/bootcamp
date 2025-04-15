@@ -5,12 +5,12 @@
 >  
 > - System.out.println("")  
 >```  
->  sysout
+> sysout
 >```  
 >  
 > - public static void main(String[] args){}  
 >```  
->  main
+> main
 >```  
 >  
   
