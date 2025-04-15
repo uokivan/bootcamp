@@ -1,6 +1,13 @@
-# Day 0 - Java Rules
+# Day 0 - Java Tips and Rules
 
-> [!NOTE]  
+> [!TIP]  
+>  
+>  1. Create a "Project" in VScode :  
+>     Right click VScode's EXPLORER, and select "New Java Project..."  
+  
+  
+> [!Note]
+>  
 > 1. File name can't start from number  
 >  
 > 2. File name must equal to the first public class name  
@@ -13,5 +20,6 @@
 >       }  
 >    }  
 >```  
+>
 
 
