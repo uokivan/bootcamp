@@ -24,7 +24,10 @@
 >  
 > 1. File name can't start from number  
 >  
-> 2. File name must equal to the first public class name  
+> 2. File name always start with capital letter  
+>  ![JAVA](https://github.com/uokivan/bootcamp/blob/main/images/filename_cap.png)
+>  
+> 3. File name must equal to the first public class name  
 >  
 >    such as : File name is HelloWorld.java :  
 >```  
