@@ -34,5 +34,23 @@ public class Day4 {
     // the range of int value should solve majority of the problems in system,
     // so we won't use long as a default type of variable for storing integer.
 
+    System.out.println("");
+
+    int x = 3;
+    System.out.println("x is " + x);
+    int y1 = (x++ + 3);
+    System.out.println("(x++ + 3) = " + y1);
+    System.out.println("now x is " + x);
+
+    System.out.println("----");
+
+    x = 3;
+    System.out.println("x is " + x);
+    int y2 = (x++ + 3)* x++;
+    System.out.println("(x++ + 3)* x++ = " + y2);
+    System.out.println("now x is " + x);
+    System.out.println("----");
+
+
   }
 }

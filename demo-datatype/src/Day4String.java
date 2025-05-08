@@ -39,6 +39,7 @@ public class Day4String {
     String name1 = "Joey"; 
     // Joey -> e
     System.out.println("The char in the middle of " + name1 + " is " + name1.charAt((name1.length()+1)/2));
+    System.out.println("The char in the middle of " + name1 + " is " + name1.charAt((name1.length())/2));
 
     String name2 = "Vincent";
     // Vincent -> c
