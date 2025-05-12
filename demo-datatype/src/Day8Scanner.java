@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Day8Scanner {
+
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Please input a number:");
@@ -14,5 +15,6 @@ public class Day8Scanner {
       s = "ODD";
     }
     System.out.println("The input number is an " + s + " number.");
+    scanner.close();
   }
 }

@@ -1,6 +1,6 @@
 ![JAVA](https://github.com/uokivan/bootcamp/blob/main/images/javaLogo.jpeg)
 
-# 72 Days Zero to Hero Java Bootcamp
+# 70 Days Zero to Hero Java Bootcamp
 
 ## MENU
 
