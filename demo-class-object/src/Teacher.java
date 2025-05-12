@@ -1,19 +1,18 @@
 public class Teacher {
 
   public static void distribute(Student[] students) {
-    System.out.println("students.length : " + students.length);
+    //System.out.println("students.length : " + students.length);
     int whos = 0;
     for (int i = 0; i < Candy.candys; i++) {
       
       if (whos <= students.length-1) {
-        System.out.println("whos 1 : " + whos);
+        //System.out.println("whos 1 : " + whos);
         students[whos].studentGet++;
         whos ++;
       } else {
-        System.out.println("whos 2 : " + whos);
-        whos = 0;
-        students[whos].studentGet++;
-        whos ++;
+        //System.out.println("whos 2 : " + whos);
+        students[0].studentGet++;
+        whos = 1;
       }
 
     }
@@ -22,6 +21,7 @@ public class Teacher {
   public static void main(String[] args) {
 
     // add 3 or 4 or many students
+    //Student[] students = new Student[4];
     Student[] students = new Student[3];
     Student s1 = new Student("Peter");
     Student s2 = new Student("Paul");
